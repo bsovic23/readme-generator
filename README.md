@@ -1,3 +1,17 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Project Description
+
+This project uses the inquierer npm package to take information to automatically create a README file
+
+## Tools Used
+
+* Inquirer npm
+
+## Deployed Application
+
+video walkthrough
+
+## Screenshots
+
+![](Develop/assets/application.PNG)
